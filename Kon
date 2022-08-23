@@ -1,0 +1,12 @@
+76
+        <td width="40" class="headingnomor">NO</td>
+77
+        <td width="100" class="headingnomor">DAY</td>
+78
+        <td width="150" class="headingnomor">TIME</td>
+79
+        <td width="150" class="headingnomor">DATE</td>
+80
+        <td width="300" class="headingnomor">RESULT</td>
+81
+        <td class="headingnomor">PRIZE</td>
